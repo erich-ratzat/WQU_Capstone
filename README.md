@@ -14,7 +14,7 @@ improvement in returns and risk.
 <i>
 #############################################################################################
 
-1. There are 16 files zipped: 
+1. There are 16 files regarding this project: 
 	a) 12 excel files containing the raw data for calculations;
 	b) 1 python file containing an executable code;
 	c) 1 IPython file containing a readable code;
