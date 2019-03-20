@@ -4,7 +4,7 @@
 #### Title: Does Piotroski F-Score work in Emerging Markets? The Brazilian market analysis and its content is the following:
 #### Author: Erich Leonardo Ratzat
 
-######################################################################################
+############################################################################################
 <br>
 <i>
 The objective of this paper is to test Piotroski (2000) model in the
@@ -12,7 +12,7 @@ Brazilian Market for the period 2005-2018. In addition, apply the momentum
 strategy after the Piotroski portfolio selection to identify if there is any
 improvement in returns and risk.
 <i>
-######################################################################################
+############################################################################################
 
 1. There are 16 files regarding this project: 
 	a) 12 excel files containing the raw data for calculations;
